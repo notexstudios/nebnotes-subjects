@@ -13,7 +13,7 @@ body {
 h2{
     display: flex;
     justify-content: center;
-    color: black;
+
     margin-top:  30px;
     font-size: 25px;
     font-weight: bold;
@@ -76,8 +76,6 @@ table {
 }
 a{
     text-decoration: none;
-    color: black;
-    background-color: #eeeaea;
 }
 .img{
   display: grid;
